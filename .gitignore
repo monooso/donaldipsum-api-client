@@ -1,0 +1,9 @@
+# System
+.DS_Store
+
+# Editor
+.idea/
+
+# Node / NPM
+node_modules/
+npm-debug.log
